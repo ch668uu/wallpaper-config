@@ -1,6 +1,18 @@
 {
-  "deleteAll": true,
+  "deleteAll": false,
   "images": [
-    
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAANEadHj-JXwhp-rKH-IyMOKcVuxgcMAAmoNaxs7CZBWRHcif6q06wEBAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAANCadHj3QFfhJdfI7kmAvO2yDQumVcAAmgNaxs7CZBW4c3ChyLXx3gBAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAANAadHjw9lKQZ0SDm_-CU4ct5OV6BEAAmUNaxs7CZBWLsVjMO0txCMBAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAM-adHjorNCJ0GoFR5a3eYp44zbll8AAmQNaxs7CZBWUF09ekAu6H0BAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAM8adHjkb3C7AiYacWgtyz5dRQacvMAAmMNaxs7CZBWvhOCyd3NyP4BAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAM6adHjhgABQg2DGJaxaGxr_XgZnE6wAAJiDWsbOwmQVledaKSD0eidAQADAgADdwADOwQ.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAM4adHjXP0oRHT1O-LvFW2DTcw11RIAAmENaxs7CZBWQk0xmbCsGD8BAAMCAAN3AAM7BA.jpeg",
+    "https://store.chyblog.top/file/BQACAgUAAyEGAATlrpOTAAM0adHjUJBPSdbLBbHd-7qkSbyYTJsAAhgfAAI7CZBWPSGbdCbNl0o7BA.png",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAMuadHi2gfNQgKqHtodpX-D1XDckfkAAlwNaxs7CZBWmIpK_JIVD9cBAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAMoadHi0gTbTFKvAdWbXcZRcflD1TwAAlkNaxs7CZBWolzK3cmyQWEBAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAMsadHi2Dku4Eq0KoSlFvx4euoClMIAAlsNaxs7CZBWWDemDDdsW_8BAAMCAAN3AAM7BA.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAMqadHi1bb2eEV39AzPwRBZDxHgCLoAAloNaxs7CZBWZAAB1E_Me24qAQADAgADdwADOwQ.jpg",
+    "https://store.chyblog.top/file/AgACAgUAAyEGAATlrpOTAAMcadHiNRvAaogd5Dp5tQq5rUPNQAoAAk8Naxs7CZBWE2imVlgBCcsBAAMCAAN3AAM7BA.jpeg"
   ]
 }
