@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wallpaper Config Center</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 600px; margin: auto; background: #f4f4f9; }
+        code { background: #eee; padding: 2px 5px; }
+        pre { background: #333; color: #fff; padding: 15px; overflow-x: auto; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h2>壁纸工具配置终端</h2>
+    <p>当前远程配置文件地址: <a href="config.json">config.json</a></p>
+    <p>修改此文件并推送至 GitHub，客户端将在下次开机时同步。</p>
+    
+    <h3>当前 JSON 内容预览:</h3>
+    <pre id="preview"></pre>
+
+    <script>
+        fetch('config.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('preview').textContent = JSON.stringify(data, null, 2);
+            });
+    </script>
+</body>
+</html>
